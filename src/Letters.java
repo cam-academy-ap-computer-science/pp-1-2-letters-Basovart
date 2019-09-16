@@ -2,7 +2,9 @@
 public class Letters {
 
 	public static void main(String[] args) {
-		
+		John();
+		Hefflin();
+		Alex();
 	}
 	public static void John() {
 		System.out.println("Dear John,");
@@ -20,11 +22,15 @@ public class Letters {
 		System.out.println("How are you? I hear you are still sleep deprived.");
 		System.out.println("You need to get your life together, you need to not");
 		System.out.println("spend all of your time on sports and school. You need");
-		System.out.println("to take a break every once i na while.");
+		System.out.println("to take a break every once in a while.");
 		Sincerely();
 	}
 	public static void Alex() {
-		System.out.println("Hello Big brain Boi. Did you ");
+		System.out.println("Hello Big brain Boi. what have you been doing for math?");
+		System.out.println("Since you're to smart for teh classes offered at CAM ");
+		System.out.println("Academy becasue you've done calculus like 3 years to early.");
+		Common();
+		Sincerely();
 	}
 	public static void Sincerely() {
 		System.out.println("				Sincerely, Artyom");
@@ -39,36 +45,3 @@ public class Letters {
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//Disclaimer: This is a joke!
